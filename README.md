@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi and welcome to my page! 👋<br><br>I'm Edgar, a junior Unity developer from Yerevan, Armenia  🎮<br>Passionate about: Game development, design, and seeing ideas come alive as interactive experiences 🎨<br>Always learning: Exploring new technologies and pushing my creative boundaries 📚<br>Let's connect: Available to work together and eager to produce something great 🤝
+Hi and welcome to my page! 👋<br><br>I'm Edgar, a software developer from Yerevan, Armenia  <br>Passionate about seeing ideas come alive as interactive experiences 🎨<br>Always learning: Exploring new technologies and pushing my creative boundaries 📚<br>Let's connect: Available to work together and eager to produce something great 🤝
 
 
 ## 🌐 Socials:
